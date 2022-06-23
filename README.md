@@ -1,3 +1,3 @@
 # React-dashboard
 
-This project was bootstrapped with [Create React App](https://my-react-dashboard.vercel.app/).
+Live Link: [https://my-react-dashboard.vercel.app/](https://my-react-dashboard.vercel.app/).
